@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sabareh/Reminder-Teams-App/issues"
   },
-  "homepage": "https://github.com/Sabareh/Reminder-Teams-App#readme"
+  "homepage": "https://github.com/Sabareh/Reminder-Teams-App#readme",
+  "dependencies": {
+    "@microsoft/teams-js": "^2.11.0"
+  }
 }
