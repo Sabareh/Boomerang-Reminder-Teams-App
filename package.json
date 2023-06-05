@@ -1,0 +1,19 @@
+{
+  "name": "reminder-teams-app",
+  "version": "1.0.0",
+  "description": "A powerful app with customizable reminders for messages in channels and chats, along with a boomerang notification feature to remind you of unreplied messages. Efficiently manage your reminders and never miss an important message again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabareh/Reminder-Teams-App.git"
+  },
+  "author": "Victor Sabare, Esther Wangari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sabareh/Reminder-Teams-App/issues"
+  },
+  "homepage": "https://github.com/Sabareh/Reminder-Teams-App#readme"
+}
